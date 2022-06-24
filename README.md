@@ -4,7 +4,7 @@ Please feel free to add literature or reports on this topics.
 
 Read key literature [here](https://github.com/OceanGlidersCommunity/data_assimilation_practices/blob/main/key_literature.md)
 
-You have [issues] with glider data assimilation?
+You have [issues](https://github.com/OceanGlidersCommunity/data_assimilation_practices/issues) with glider data assimilation?
 
 
 ## Short term goals
