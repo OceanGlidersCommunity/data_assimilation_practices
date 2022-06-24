@@ -1,5 +1,5 @@
 # Data Assimilation Practices
-In this repo we collect literature and approaches on glider assimilation practices. 
+In this repo we collect literature and approaches on glider data assimilation practices. 
 Please feel free to add literature or reports on this topics. 
 
 Read key literature [here](https://github.com/OceanGlidersCommunity/data_assimilation_practices/blob/main/key_literature.md)
