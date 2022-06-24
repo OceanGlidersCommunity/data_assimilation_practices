@@ -11,4 +11,4 @@ Please feel free to add literature or reports on this topics.
 - develop best practices and Standard Operating Procudures (SOPs)
 - harmonize approaches
 
-
+## [Literature](https://github.com/OceanGlidersCommunity/data_assimilation_practices/blob/main/key_literature.md)
