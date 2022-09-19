@@ -16,10 +16,11 @@
 
 - Zaba, K. D., D. L. Rudnick, B. D. Cornuelle, G. Gopalakrishnan, and M. R. Mazloff, 2018: Annual and interannual variability in the California Current System: Comparison of an assimilating state estimate with a network of underwater gliders. Journal of Physical Oceanography, 48, 2965-2988, doi: 10.1175/JPO-D-18-0037.1
 
-- I. Pasmans,A. L. Kurapov,J. A. Barth,A. Ignatov,P. M. Kosro,R. K. Shearman, Why Gliders Appreciate Good Company: Glider Assimilation in the Oregon-Washington Coastal Ocean 4DVAR System With and Without Surface Observations, 2019,  doi: https://doi.org/10.1029/2018JC014230
+- I. Pasmans, A. L. Kurapov, J. A. Barth, A. Ignatov, P. M. Kosro, R. K. Shearman, Why Gliders Appreciate Good Company: Glider Assimilation in the Oregon-Washington Coastal Ocean 4DVAR System With and Without Surface Observations, 2019,  doi: https://doi.org/10.1029/2018JC014230
 
 - Ramp, S., Davis, R., Leonard, N., Shulman, I., Chao, Y., Robinson, A., Marsden, J., Lermusiaux, P., Fratantoni, D., Paduan, J., Chavez, F., Bahr, F., Liang, S., Leslie, W., Li, Z., 2009. Preparing to predict: the second autonomous ocean sampling network (AOSN-II) experiment on the Monterey Bay. Deep-Sea Res. II 56, 68–87.
-Shulman I., C. Rowley, S. Anderson, S. DeRada, J. Kindle, P. Martin, J. Doyle, J. Cummings, S. Ramp, F. Chavez, D. Fratantoni, R. Davis, 2009, Impact of glider data assimilation on the Monterey Bay model, Deep Sea Research Part II: Topical Studies in Oceanography, Volume 56, Issues 3–5, 188-198, https://doi.org/10.1016/j.dsr2.2008.08.003.
+
+- Shulman I., C. Rowley, S. Anderson, S. DeRada, J. Kindle, P. Martin, J. Doyle, J. Cummings, S. Ramp, F. Chavez, D. Fratantoni, R. Davis, 2009, Impact of glider data assimilation on the Monterey Bay model, Deep Sea Research Part II: Topical Studies in Oceanography, Volume 56, Issues 3–5, 188-198, https://doi.org/10.1016/j.dsr2.2008.08.003.
 
 - J. Levin, Hernan G. A., B. Laughlin, E. Hunter, J. Wilkin, A. M. Moore, Observation impacts on the Mid-Atlantic Bight front and cross-shelf transport in 4D-Var ocean state estimates: Part II — The Pioneer Array, Ocean Modelling, Volume 157, 2021, 101731,doi: https://doi.org/10.1016/j.ocemod.2020.101731 
 
@@ -33,6 +34,4 @@ Salomon Sea
 - A. Melet, J. Verron, J.M. Brankart, 2012, Potential outcomes of glider data assimilation in the Solomon Sea: control of the water mass properties and parameter estimation, J. Mar. Syst., 94 (2012), pp. 232-246, 10.1016/j.jmarsys.2011.12.003
 
 - Jones E., P.R. Oke, F. Rizwi, L.M. Murray, 2012, Assimilation of glider and mooring data into a coastal ocean model, Ocean Model, 47 (2012), pp. 1-13, 10.1016/j.ocemod.2011.12.009
-![image](https://user-images.githubusercontent.com/79571123/191085265-709df2e7-7214-4d52-aa67-666e676be443.png)
-
 
