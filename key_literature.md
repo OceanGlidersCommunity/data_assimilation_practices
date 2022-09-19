@@ -7,7 +7,6 @@
 
 - Hayes, Daniel R., Srdjan Dobricic, Hezi Gildor, and Anastasios Matsikaris. "Operational assimilation of glider temperature and salinity for an improved description of the Cyprus eddy." Deep Sea Research Part II: Topical Studies in Oceanography 164 (2019): 41-53.
 
-- Pasmans, I., A. L. Kurapov, J. A. Barth, A. Ignatov, P. M. Kosro, and R. K. Shearman. "Why Gliders Appreciate Good Company: Glider Assimilation in the Oregon‐Washington Coastal Ocean 4DVAR System With and Without Surface Observations." Journal of Geophysical Research: Oceans 124, no. 1 (2019): 750-772.
 
 - Alvarez, A., and B. Mourre. "Cooperation or coordination of underwater glider networks? An assessment from observing system simulation experiments in the Ligurian Sea." Journal of Atmospheric and Oceanic Technology 31, no. 10 (2014): 2268-2277.
 
